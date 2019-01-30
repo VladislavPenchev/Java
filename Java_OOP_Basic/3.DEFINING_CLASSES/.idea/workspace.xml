@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6ea8528-bbeb-4288-9853-c2037cbc9327" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticIdAndRate_fd_5/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/StaticIdAndRate_fd_5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="232" />
     <option name="y" value="-9" />
     <option name="width" value="1378" />
@@ -143,7 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548776411472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548837792507" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunDashboard">
@@ -211,7 +214,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -343,7 +345,7 @@
     <entry file="file://$PROJECT_DIR$/src/StaticIdAndRate_fd_5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
