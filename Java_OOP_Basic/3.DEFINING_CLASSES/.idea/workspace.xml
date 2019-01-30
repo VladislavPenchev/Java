@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6ea8528-bbeb-4288-9853-c2037cbc9327" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,7 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548837792507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548839033137" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunDashboard">
@@ -214,6 +212,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

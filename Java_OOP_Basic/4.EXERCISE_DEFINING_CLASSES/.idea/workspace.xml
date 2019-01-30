@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff919c12-ce7f-4e54-9d98-3bb8f603ffe1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="623" />
+          <entry key="java" value="1147" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="623" />
+          <entry key="JAVA" value="1147" />
         </counts>
       </usages-collector>
     </session>
@@ -46,10 +45,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CreatingConstructors_fd_2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/OpinionPoll_fd_3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="294">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,19 +57,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/OpinionPoll_fd_3/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,8 +102,10 @@
         <option value="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Person.java" />
         <option value="$PROJECT_DIR$/src/DefineClassPerson_fd_1/Main.java" />
         <option value="$PROJECT_DIR$/src/CreatingConstructors_fd_2/CreatingConstructors_2.java" />
-        <option value="$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java" />
         <option value="$PROJECT_DIR$/src/CreatingConstructors_fd_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/OpinionPoll_fd_3/Person.java" />
+        <option value="$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java" />
+        <option value="$PROJECT_DIR$/src/OpinionPoll_fd_3/Main.java" />
       </list>
     </option>
   </component>
@@ -142,6 +143,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CreatingConstructors_fd_2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="4.EXERCISE_DEFINING_CLASSES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4.EXERCISE_DEFINING_CLASSES" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OpinionPoll_fd_3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +156,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548837792570" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548839038419" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OpinionPoll_fd_3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,13 +175,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreatingConstructors_fd_2.Main" />
       <module name="4.EXERCISE_DEFINING_CLASSES" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CreatingConstructors_fd_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpinionPoll_fd_3.Main" />
+      <module name="4.EXERCISE_DEFINING_CLASSES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OpinionPoll_fd_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,9 +218,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -274,27 +301,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/OpinionPoll_fd_3/OpinionPoll_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CreatingConstructors_fd_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        <state relative-caret-position="68">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreatingConstructors_fd_2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpinionPoll_fd_3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpinionPoll_fd_3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,19 +1,9 @@
-package CreatingConstructors_fd_2;
+package OpinionPoll_fd_3;
 
 public class Person {
 
     private String name;
     private int age;
-
-    public Person(){
-        this.name = "No name";
-        this.age = 1;
-    }
-
-    public Person(int age){
-        this.name = "No name";
-        this.age = age;
-    }
 
     public Person(String name, int age){
         this.name = name;
@@ -28,11 +18,17 @@ public class Person {
         this.name = name;
     }
 
+
     public int getAge() {
         return age;
     }
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s - %d",this.name,this.age);
     }
 }
