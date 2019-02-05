@@ -11,6 +11,22 @@ public class Engine {
         this.power = power;
     }
 
+    public String getModel(){
+        return this.model;
+    }
+
+    public int getPower(){
+        return this.power;
+    }
+
+    public int getDisplacement(){
+        return this.displacement;
+    }
+
+    public String getEfficiency(){
+        return this.efficiency;
+    }
+
     public void setDisplacement(int displacement){
         this.displacement = displacement;
     }
