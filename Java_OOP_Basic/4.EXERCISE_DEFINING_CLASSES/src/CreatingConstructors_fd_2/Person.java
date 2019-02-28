@@ -1,24 +1,39 @@
 package CreatingConstructors_fd_2;
 
 public class Person {
+    private static final String DEFAULT_NAME = "No name";
+    private static final int DEFAULT_AGE = 1;
 
     private String name;
     private int age;
 
     public Person(){
-        this.name = "No name";
-        this.age = 1;
+        this(DEFAULT_NAME,DEFAULT_AGE);
     }
 
     public Person(int age){
-        this.name = "No name";
-        this.age = age;
+        this(DEFAULT_NAME,age);
     }
 
     public Person(String name, int age){
         this.name = name;
         this.age = age;
     }
+    //standard work
+//    public Person(){
+//        this.name = DEFAULT_NAME;
+//        this.age = DEFAULT_AGE;
+//    }
+//
+//    public Person(int age){
+//        this.name = "No name";
+//        this.age = age;
+//    }
+//
+//    public Person(String name, int age){
+//        this.name = name;
+//        this.age = age;
+//    }
 
     public String getName(){
         return this.name;
@@ -29,7 +44,7 @@ public class Person {
     }
 
     public int getAge() {
-        return age;
+        return this.age;
     }
 
     public void setAge(int age) {
