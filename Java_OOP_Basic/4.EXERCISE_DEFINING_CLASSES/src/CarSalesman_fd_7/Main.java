@@ -4,94 +4,79 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Main {
-
-    public static final int numberOfParameters_3 = 3;
-    public static final int numberOfParameters_4 = 4;
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         int countOfEngines = Integer.parseInt(reader.readLine());
 
-        List<Engine> engines = new ArrayList();
+        Map<String, Engine> engines = new LinkedHashMap<>();
+
         List<Car> cars = new ArrayList<>();
 
-        String[] line;
-        for (int i = 0; i < countOfEngines; i++) {
-            line = reader.readLine().split("\\s+");
+        while(countOfEngines-- > 0){
+            String[] tokens = reader.readLine().split("\\s+");
 
-            String engineModel = line[0];
-            int enginePower = Integer.parseInt(line[1]);
+            Engine engine = null;
 
-            Engine eng = new Engine(engineModel, enginePower);
+            engine = new Engine(tokens[0], Integer.parseInt(tokens[1]),Integer.parseInt(tokens[2]),tokens[3]);
 
-            if (line.length == numberOfParameters_3) {
-                if(tryParseInt(line[2])){
-                    int displacement = Integer.parseInt(line[2]);
-                    eng.setDisplacement(displacement);
-                }else{
-                    String efficiency = line[2];
-                    eng.setEfficiency(efficiency);
-                }
-            }else if(line.length == numberOfParameters_4){
-                int displacement = Integer.parseInt(line[2]);
-                String efficiency = line[3];
-                eng.setDisplacement(displacement);
-                eng.setEfficiency(efficiency);
+            switch(tokens.length){
+                case 2:
+                    engine = new Engine(tokens[0], Integer.parseInt(tokens[1]));
+                    break;
+                case 3:
+                    if(tokens[2].matches("\\d+")){
+                        engine = new Engine(tokens[0], Integer.parseInt(tokens[1]),Integer.parseInt(tokens[2]));
+                    }else{
+                        engine = new Engine(tokens[0], Integer.parseInt(tokens[1]), tokens[2]);
+                    }
+                    break;
+                case 4:
+                        engine = new Engine(tokens[0], Integer.parseInt(tokens[1]),Integer.parseInt(tokens[2]),tokens[3]);
+                    break;
             }
 
-            engines.add(eng);
+            engines.putIfAbsent(tokens[0],engine);
+
         }
 
         int countOfCars = Integer.parseInt(reader.readLine());
 
-        for(int j = 0; j < countOfCars; j++){
-            line = reader.readLine().split("\\s+");
+        while(countOfCars-- > 0){
+            String[] tokens = reader.readLine().split("\\s+");
 
-            String carModel =line[0];
-            String carEngine = line[1];
+            Car car = null;
 
-            Engine eng = (Engine) engines.stream()
-                    .filter(x -> x.getModel().equals(carEngine))
-                    .findFirst()
-                    .get();
+            car = new Car(tokens[0], engines.get(tokens[1]));
 
-
-            Car car = new Car(carModel,eng);
-
-            if (line.length == numberOfParameters_3) {
-                if(tryParseInt(line[2])){
-                    int carWeight = Integer.parseInt(line[2]);
-                    car.setWeight(carWeight);
-                }else{
-                    String color = line[2];
-                    car.setColor(color);
-                }
-            }else if(line.length == numberOfParameters_4){
-                int carWeight = Integer.parseInt(line[2]);
-                String color = line[3];
-                car.setWeight(carWeight);
-                car.setColor(color);
+            switch(tokens.length){
+                case 2:
+                    car = new Car(tokens[0], engines.get(tokens[1]));
+                    break;
+                case 3:
+                    if(tokens[2].matches("\\d+")){
+                        car = new Car(tokens[0], engines.get(tokens[1]), Integer.parseInt(tokens[2]));
+                    }else{
+                        car = new Car(tokens[0], engines.get(tokens[1]), tokens[2]);
+                    }
+                    break;
+                case 4:
+                    car = new Car(tokens[0], engines.get(tokens[1]),Integer.parseInt(tokens[2]),tokens[3]);
+                    break;
             }
+
             cars.add(car);
         }
 
+        cars.forEach(System.out::println);
 
-
-        cars.stream()
-                .forEach(System.out::println);
 
     }
 
-    public static boolean tryParseInt (String value){
-        try{
-            Integer.parseInt(value);
-            return  true;
-        }catch(NumberFormatException e){
-            return false;
-        }
-    }
 }

@@ -8,44 +8,48 @@ public class Car {
     private int weight;
     private String color;
 
-
-
-    public Car(String model, Engine engine){
+    public Car(String model, Engine engine) {
         this.model = model;
         this.engine = engine;
+        this.weight = weight;
+        this.color = color;
     }
 
-    public Engine getEngine(){
-        return this.engine;
-    }
-
-    public int getWeight(){
-        return this.weight;
-    }
-
-    public String getcolor(){
-        return this.color;
-    }
-
-    public void setWeight(int weight){
+    public Car(String model, Engine engine, int weight) {
+        this(model,engine);
         this.weight = weight;
     }
 
-    public void setColor(String color){
+    public Car(String model, Engine engine, String color) {
+        this(model,engine);
+        this.color = color;
+    }
+
+    public Car(String model, Engine engine, int weight, String color) {
+        this(model,engine);
+        this.weight = weight;
         this.color = color;
     }
 
     @Override
     public String toString() {
 
-        return String.format("%s:\n%s:\nPower: %d\nDisplacement: %s",//\nEfficiency: %s\nWeight: %d\nColor: %d",
-                model,
-                engine.getModel(),
-                getEngine().getPower(),
-                engine.getDisplacement() == 0 ? NOT_AVAILABLE : engine.getDisplacement(),
-                engine.getEfficiency(),equals(null) ? NOT_AVAILABLE : engine.getEfficiency()
-                //weight == 0 ? "n/a" : weight,
-                //color.equals(null) ? "n/a" : color
-                );
+        StringBuilder car = new StringBuilder();
+
+        car.append(String.format("%s:",this.model))
+                .append(System.lineSeparator())
+                .append(this.engine.toString())
+                .append(System.lineSeparator())
+                .append(String.format("Weight: %s", this.weight == 0 ? "n/a" : this.weight))
+                .append(System.lineSeparator());
+
+
+        if(this.color == null){
+            car.append("Color: n/a");
+        }else{
+            car.append(String.format("Color: %s", this.color));
+        }
+
+        return car.toString();
     }
 }
