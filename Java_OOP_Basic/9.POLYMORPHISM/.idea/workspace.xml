@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../7.INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.INHERITANCE/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/SongLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/SongLength.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,19 +26,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="163" />
+          <entry key="JAVA" value="596" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OverloadMethod_fd_1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -51,6 +50,49 @@
                 <element signature="e#243#244#0" expanded="true" />
                 <element signature="e#312#313#0" expanded="true" />
                 <element signature="e#349#350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Square.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +114,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/OverloadMethod_fd_1/Main.java" />
+        <option value="$PROJECT_DIR$/src/MethodOverriding_fd_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/MethodOverriding_fd_2/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/MethodOverriding_fd_2/Square.java" />
       </list>
     </option>
   </component>
@@ -103,6 +148,12 @@
               <item name="9.POLYMORPHISM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="9.POLYMORPHISM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="9.POLYMORPHISM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodOverriding_fd_2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -110,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552405464467" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552482670517" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,6 +234,43 @@
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodOverriding_fd_2/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
