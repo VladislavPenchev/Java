@@ -1,6 +1,6 @@
 package net.java.main.commands;
 
-public class GameOverCommand extends Command {
+public class GameOverBaseCommand extends BaseCommand {
 
     @Override
     public String execute(String[] args) {

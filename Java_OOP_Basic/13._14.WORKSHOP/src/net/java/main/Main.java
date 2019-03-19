@@ -16,8 +16,8 @@ public class Main {
         InputReader reader = new ConsoleReader();
         OutputWriter writer = new ConsoleWriter();
         CommandDispatcher commandDispatcher = new CommandDispatcher();
-
         Engine gameEngine = new GameEngine(reader, writer, commandDispatcher);
+
         gameEngine.start();
     }
 }

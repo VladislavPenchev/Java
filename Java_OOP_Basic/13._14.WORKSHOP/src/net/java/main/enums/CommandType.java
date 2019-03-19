@@ -9,6 +9,8 @@ public enum CommandType {
 
     @Override
     public String toString() {
-        return this.name().replace("_", "-");
+        return this.name()
+                .replace("_", "-")
+                .toLowerCase();
     }
 }
