@@ -1,6 +1,6 @@
 package net.java.main.models.units;
 
-import net.java.main.constants.Constants;
+import net.java.main.constants.GameConstants;
 import net.java.main.interfaces.CombatHandler;
 import net.java.main.interfaces.Position;
 
@@ -10,12 +10,12 @@ public class Marine extends BaseUnit {
                   Position position,
                   CombatHandler combatHandler) {
         super(name,
-                Constants.MARINE_RANGE,
+                GameConstants.MARINE_RANGE,
                 position,
-                Constants.MARINE_HEALTH_POINTS,
-                Constants.MARINE_ENERGY_POINTS,
-                Constants.MARINE_ATTACK_POINTS,
-                Constants.MARINE_DEFENCE_POINTS,
+                GameConstants.MARINE_HEALTH_POINTS,
+                GameConstants.MARINE_ENERGY_POINTS,
+                GameConstants.MARINE_ATTACK_POINTS,
+                GameConstants.MARINE_DEFENCE_POINTS,
                 combatHandler);
     }
 

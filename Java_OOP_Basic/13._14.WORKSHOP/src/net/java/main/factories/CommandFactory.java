@@ -1,8 +1,12 @@
 package net.java.main.factories;
 
 import net.java.main.commands.GameOverBaseCommand;
+import net.java.main.commands.SpawnCommand;
 import net.java.main.enums.CommandType;
+import net.java.main.interfaces.Battleground;
 import net.java.main.interfaces.Command;
+import net.java.main.interfaces.Repository;
+import net.java.main.interfaces.Unit;
 
 public final class CommandFactory {
 
@@ -12,7 +16,7 @@ public final class CommandFactory {
 
     //TODO:
 
-    public static Command createCommand(CommandType type){
+    public static Command createCommand(CommandType type, Battleground battleground, Repository<Unit> unitRepository){
 
         switch (type){
             case MOVE:
@@ -22,7 +26,7 @@ public final class CommandFactory {
             case STATUS:
                 //return new StatusCommand();
             case SPAWN:
-                //return new SpawnCommand();
+                return new SpawnCommand(battleground, unitRepository);
             case GAVE_OVER:
                return new GameOverBaseCommand();
             default: return null;

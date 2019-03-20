@@ -1,6 +1,9 @@
 package net.java.main.commands;
 
-public class GameOverBaseCommand extends BaseCommand {
+import net.java.main.interfaces.Battleground;
+import net.java.main.interfaces.Command;
+
+public class GameOverBaseCommand implements Command {
 
     @Override
     public String execute(String[] args) {

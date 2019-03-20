@@ -4,11 +4,10 @@ import net.java.main.interfaces.CombatHandler;
 import net.java.main.interfaces.Unit;
 import net.java.main.models.units.BaseUnit;
 
-public abstract class CombatHandlerImpl implements CombatHandler{
-    //TODO:
+public abstract class BaseCombatHandler implements net.java.main.interfaces.CombatHandler {
     private Unit unit;
 
-    protected CombatHandlerImpl() {
+    protected BaseCombatHandler() {
     }
 
     @Override

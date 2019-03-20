@@ -2,12 +2,7 @@ package net.java.main.constants;
 
 import net.java.main.io.ConsoleReader;
 
-public final class Constants {
-
-
-    private Constants(){
-
-    }
+public final class GameConstants {
 
     //Marine
     public static final int MARINE_RANGE = 1;
@@ -22,4 +17,9 @@ public final class Constants {
     public static final int CARRIER_ENERGY_POINTS= 80;
     public static final int CARRIER_ATTACK_POINTS= 15;
     public static final int CARRIER_DEFENCE_POINTS= 5;
+
+
+    private GameConstants(){
+
+    }
 }

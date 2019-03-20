@@ -5,7 +5,7 @@ import net.java.main.interfaces.Unit;
 
 import java.util.List;
 
-public class CarrierCombatUnit extends CombatHandlerImpl {
+public class CarrierCombatHandler extends BaseCombatHandler {
 
 
     //TODO:
