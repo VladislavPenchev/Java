@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="412123f0-463d-407f-b5b8-81036f6f7a39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13._14.WORKSHOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../13._14.WORKSHOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/contracts/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8.EXERCISE_INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/engines/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/utilities/InputParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/io/ConsoleOutputWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/Main.java" />
+        <option value="$PROJECT_DIR$/src/app/io/ConsoleOutputWriter.java" />
+        <option value="$PROJECT_DIR$/src/app/io/ConsoleInputReader.java" />
+        <option value="$PROJECT_DIR$/src/app/utilities/InputParser.java" />
+        <option value="$PROJECT_DIR$/src/app/engines/Engine.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="114" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="engines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555413628225" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="18.EXAM_PREPARATION_OCTOBER2017_AVATAR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412123f0-463d-407f-b5b8-81036f6f7a39" name="Default Changelist" comment="" />
+      <created>1555410571865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555410571865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="DB Browser" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Main.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/io/ConsoleInputReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/io/ConsoleOutputWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/utilities/InputParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/engines/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
