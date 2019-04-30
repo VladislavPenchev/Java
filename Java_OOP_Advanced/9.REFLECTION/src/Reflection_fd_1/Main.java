@@ -1,8 +1,5 @@
 package Reflection_fd_1;
 
-
-import javafx.scene.effect.Reflection;
-
 import java.lang.reflect.InvocationTargetException;
 
 public class Main {
