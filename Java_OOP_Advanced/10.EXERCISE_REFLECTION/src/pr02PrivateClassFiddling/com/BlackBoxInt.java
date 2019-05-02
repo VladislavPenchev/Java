@@ -1,4 +1,4 @@
-package pr02PrivateClassFiddling.com.peshoslav;
+package pr02PrivateClassFiddling.com;
 
 public class BlackBoxInt {
 
