@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba3e2438-8de0-4510-aa4d-ce7cf26c3dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Drawable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/GraphicEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/P01_ExtendedArrayList/Main.java" />
+        <option value="$PROJECT_DIR$/src/P01_ExtendedArrayList/ExtendedArrayList.java" />
+        <option value="$PROJECT_DIR$/src/P02_FileStream/Streamble.java" />
+        <option value="$PROJECT_DIR$/src/P02_FileStream/StreamProgressInfo.java" />
+        <option value="$PROJECT_DIR$/src/P02_FileStream/Music.java" />
+        <option value="$PROJECT_DIR$/src/P02_FileStream/File.java" />
+        <option value="$PROJECT_DIR$/src/P02_FileStream/Main.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/Drawable.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/Shape.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/Circle.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/GraphicEditor.java" />
+        <option value="$PROJECT_DIR$/src/P03_GraphicEditor/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="114" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P03_GraphicEditor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557748696660" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladislav.penchev\Desktop\Java\Java_OOP_Advanced\13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P02_FileStream.Main" />
+      <module name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P02_FileStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P03_GraphicEditor.Main" />
+      <module name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P03_GraphicEditor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P01_ExtendedArrayList.Main" />
+      <module name="13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P01_ExtendedArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3e2438-8de0-4510-aa4d-ce7cf26c3dfe" name="Default Changelist" comment="" />
+      <created>1557734120148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557734120148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32974428" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="DB Execution Console" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32974428" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="DB Execution Console" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P01_ExtendedArrayList/Main.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/P05_Square/RectangleTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P01_ExtendedArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P01_ExtendedArrayList/ExtendedArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P02_FileStream/Streamble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P02_FileStream/StreamProgressInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P02_FileStream/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P02_FileStream/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P02_FileStream/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/GraphicEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P03_GraphicEditor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

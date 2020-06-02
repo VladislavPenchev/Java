@@ -32,7 +32,7 @@ public class App {
 //        usersDbContext.find()
 //                .forEach(System.out::println);
 
-        User user = (User) usersDbContext.findFirst();
+        User user = (User) usersDbContext.findById(1);
         user.setLastName("Wse taq");
         usersDbContext.persist(user);
 

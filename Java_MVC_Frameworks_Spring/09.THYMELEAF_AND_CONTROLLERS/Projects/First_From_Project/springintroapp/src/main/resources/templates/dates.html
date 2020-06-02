@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Dates</h1>
+
+    <div th:text="${#aggregates.sum(numbers)}"></div>
+    <div th:text="${#aggregates.avg(numbers)}"></div>
+
+    <ul>
+        <li th:each="number: ${#numbers.sequence(1, 10)}">
+            <span th:text="${number}"></span>
+        </li>
+    </ul>
+
+    <div th:text="${#dates.format(dates[1], 'yyyy')}"></div>
+    <div th:text="${#dates.format(dates[1], 'HH:mm:ss dd/MM/yyyy')}"></div>
+    <div th:text="${#dates.dayOfWeek(date)}"></div>
+    <div th:text="${#dates.listDayOfWeekName(dates)}"></div>
+    <div th:text="${#strings.listJoin(#dates.listFormat(dates, 'dd/MM/yyyy'), ',')}"></div>
+    <dit th:text="${#strings.capitalize('pesho')}"></dit>
+
+    <script th:inline="javascript">
+        const username = [[${username}]];
+        setTimeout(() => {
+            console.log(username);
+        }, 2000)
+    </script>
+</body>
+</html>

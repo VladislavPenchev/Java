@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>It works on <p></p></h1>
+
+    <script>
+
+        const generateList = (users) => {
+            return "<ul>" +
+                    users.map(user => `<li>${user.name}</li>`)
+                        .join("\n") +
+                    "</ul>"
+        };
+        //GET /users
+        //Async JavaScript & XML
+        $.ajax({
+            url: "/users",
+            method: 'GET',
+            success: (users) => {
+                const list = generateList(users);
+                $('body').append(list);
+            }
+        });
+    </script>
+</body>
+</html>

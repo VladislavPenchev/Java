@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="556c2a16-7b95-498d-af9e-b57fbb5d38fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/db/EntityDbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/db/EntityDbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Advanced/9.REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Advanced/9.REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="y" value="73" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556c2a16-7b95-498d-af9e-b57fbb5d38fc" name="Default Changelist" comment="" />
+      <created>1559222967052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559222967052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="DB Browser" weight="0.32969153" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

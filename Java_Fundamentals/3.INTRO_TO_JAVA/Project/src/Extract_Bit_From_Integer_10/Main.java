@@ -1,6 +1,7 @@
 package Extract_Bit_From_Integer_10;
 
 import java.util.Scanner;
+//judge 100%
 
 public class Main {
 	public static void main(String[] args) {

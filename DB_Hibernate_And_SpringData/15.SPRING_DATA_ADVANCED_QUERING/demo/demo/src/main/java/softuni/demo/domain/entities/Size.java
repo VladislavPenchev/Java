@@ -1,4 +1,4 @@
-package advancedquerying.domain.entities;
+package softuni.demo.domain.entities;
 
 public enum Size {
 

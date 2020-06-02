@@ -1,0 +1,13 @@
+#Data Source Properties
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/cars_db?useSSL=false&createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true&useSSL=false
+    username: vladislav
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+        format_sql: TRUE:#JPA Properties
+        ddl-auto: update
+      show_sql: TRUE

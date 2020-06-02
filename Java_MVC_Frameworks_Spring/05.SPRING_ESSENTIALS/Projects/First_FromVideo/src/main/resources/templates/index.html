@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo</title>
+</head>
+<body>
+    <head>
+        <th:block th:replace="fragments/head"></th:block>
+    </head>
+
+    <header>
+        <nav>
+            <a th:href="@{/home}"></a>
+        </nav>
+    </header>
+
+
+    <div th:width="${user}">
+        <h1 th:text="|Username: ${username}|"></h1>
+        <h1 th:text="|Email: ${email}|"></h1>
+        <h1 th:text="|Age: ${user.age}|"></h1>
+
+    </div>
+</body>
+</html>

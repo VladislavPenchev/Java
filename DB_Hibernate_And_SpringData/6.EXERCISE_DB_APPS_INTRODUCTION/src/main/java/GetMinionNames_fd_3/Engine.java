@@ -30,32 +30,34 @@ public class Engine implements Runnable{
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        String query = "SELECT v.id ,v.name, m.name, m.age FROM villains v INNER JOIN minions_villains mv ON mv.villain_id = v.id INNER JOIN minions m ON m.id = mv.minion_id WHERE v.id = ?";
-        PreparedStatement preparedStatement = this.connection.prepareStatement(query);
-
         int id = Integer.parseInt(reader.readLine());
-        preparedStatement.setInt(1, id);
+
+        String query = String.format("SELECT m.name, m.age, v.name  FROM villains v INNER JOIN minions_villains mv  ON mv.villain_id = v.id INNER JOIN minions m ON m.id = mv.minion_id WHERE v.id = %s",id);
+
+        PreparedStatement preparedStatement = this.connection.prepareStatement(query);
 
         ResultSet resultSet = preparedStatement.executeQuery();
 
-        boolean flag = true;
+        int index = 1;
+
+        boolean flagToVillainName = true;
 
         while(resultSet.next()){
 
-            if(flag){
-                System.out.println(String.format("Villain: %s", resultSet.getString(2)));
-                flag = false;
-            }
+            String villansName = resultSet.getString(3);
+            String minionsName = resultSet.getString(1);
+            String minionsAge = resultSet.getString(2);
 
-            System.out.println(resultSet.getString(1));
+            if (flagToVillainName) {
+                System.out.println(String.format("Villain: %s",villansName));
 
-            if(resultSet.getString(1) == "\n"){
-                System.out.println(String.format("No villain with ID %d exists in the database.",id));
-            }else if(resultSet.getString(3) == "NULL"){
-                System.out.println("<no minions>");
-            }else{
-                System.out.println(String.format("%s %d", resultSet.getString(3), resultSet.getInt(4)));
+                flagToVillainName = false;
             }
+            System.out.println(String.format("%d. %s %s",index, minionsName, minionsAge));
+
+            index++;
+
+
         }
 
     }

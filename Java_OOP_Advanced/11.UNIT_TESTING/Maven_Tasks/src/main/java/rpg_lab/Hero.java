@@ -1,6 +1,5 @@
 package rpg_lab;
 
-import java.util.Random;
 
 public class Hero {
 

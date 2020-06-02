@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="First_From_Video:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/First_From_Video_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="First_From_Video" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.0" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="First_From_Video/web/Web" />
+      <element id="artifact" artifact-name="app" />
+      <element id="artifact" artifact-name="unnamed" />
+    </root>
+  </artifact>
+</component>

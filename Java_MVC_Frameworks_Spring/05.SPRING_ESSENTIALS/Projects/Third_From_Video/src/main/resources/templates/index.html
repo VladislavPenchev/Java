@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<th:block th:replace="fragments/head"></th:block>
+</head>
+<body>
+<header>
+    <nav>
+        <h1><a th:href="@{/home(name=${user.username})}">Home</a></h1>
+    </nav>
+</header>
+<th:block th:object="${user}">
+    <h1 th:text="|Username: *{username}|"></h1>
+    <!--<h1 th:text="|Email: ${user.email}|"></h1>-->
+    <!--<h1 th:text="|Age: ${user.age}|"></h1>-->
+</th:block>
+</body>
+</html>

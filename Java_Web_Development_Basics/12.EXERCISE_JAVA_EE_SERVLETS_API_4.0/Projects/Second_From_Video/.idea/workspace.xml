@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Second_From_Video:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="638c2f83-b23e-4f24-bfe5-68869cc5a012" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/implementations/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/implementations/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/implementations/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/implementations/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/interfaces/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/interfaces/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/interfaces/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_From_Video/src/main/java/interfaces/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/implementations/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/implementations/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/implementations/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/implementations/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/interfaces/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/interfaces/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/interfaces/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/main/java/interfaces/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/test/java/benchmark/BenchmarkTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/test/java/implementations/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/test/java/implementations/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/test/java/implementations/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/First_MyImpl/src/test/java/implementations/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/implementations/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/implementations/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/implementations/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/implementations/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/interfaces/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/interfaces/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/interfaces/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/main/java/interfaces/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/test/java/benchmark/BenchmarkTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/test/java/implementations/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/test/java/implementations/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/test/java/implementations/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_Data_Structures_Fundamentals/03.LINEAR_DATA_STRUCTURES/Projects/Second_MyImpl/src/test/java/implementations/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/static/css/reset-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_From_Video/src/main/resources/templates/schedule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_My_Impl/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_My_Impl/src/main/resources/static/css/reset-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/06.EXERCISE_SPRING_ESSENTIALS/Projects/First_My_Impl/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/css/reset-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_MVC_Frameworks_Spring/17.WORKSHOP/Projects/Second_From_Video/src/main/resources/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr01HarvestingFields/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr01HarvestingFields/RichSoilLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr02PrivateClassFiddling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr02PrivateClassFiddling/com/BlackBoxInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/CommandInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/contracts/UnitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/core/factories/UnitFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/data/UnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/models/units/AbstractUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/models/units/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/models/units/Pikeman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/Projects/My_Impl/src/main/java/pr0304Barracks/models/units/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P01_ExtendedArrayList/ExtendedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P02_FileStream/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P02_FileStream/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P02_FileStream/StreamProgressInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P03_GraphicEditor/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P03_GraphicEditor/GraphicEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P03_GraphicEditor/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P03_GraphicEditor/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P04_DetailPrinter/DetailsPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P04_DetailPrinter/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P04_DetailPrinter/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P05_Square/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P05_Square/RectangleTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/13.OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/Second_From_Video/src/main/java/P05_Square/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/interfaces/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/interfaces/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/models/Blob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/models/attacks/PutridFart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/models/behaviors/AbstractBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_From_Video/src/main/java/models/behaviors/Aggressive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/interfaces/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/interfaces/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/models/Blob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/models/attacks/AbstractAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/models/attacks/PutridFart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/models/behavors/AbstractBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/14.EXERCISE_OPEN_CLOSE_LISKOV_SUBSTITUTION_PRINCIPLES/Projects/First_MyImpl/src/main/java/models/behavors/Aggressive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p01_system_resources/GreetingClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p02_services/EmailNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p02_services/OnlineStoreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p02_services/SmsNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/ConsoleFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/ConsoleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/EmployeeDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/EmployeeInfoProviderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p03_employee_info/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/BaseWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/RechargeStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/Rechargeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p04_recharge/Sleeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/BaseSecurityCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/KeyCardCheckImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/PinCodeCheckBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/ScannerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/SecurityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/15.INTERFACE_SEGREGATION_DEPENDENCY_INVERSION_PRINCIPES/Projects/First_From_Video/src/main/java/p05_security_system/SecurityUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/entities/miscellaneous/HeroInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/entities/miscellaneous/ItemCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/InputReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/OutputWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/20EXAM_PREPARATION/Projects/First_From_Video/src/main/java/hell/interfaces/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/commands/CommandImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/commands/GameOverCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/comparators/UnitComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/core/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/dispachers/CommandDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/enums/UnitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/exceptions/GameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/exceptions/InvalidPositionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/handlers/CombatHandlerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/interfaces/Battleground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/interfaces/CombatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/interfaces/InputReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/io/ConsoleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13.WORKSHOP/Projects/Second_From_Video/src/main/java/net/java/main/models/units/BaseUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/commands/GameOverCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/comparators/UnitComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/core/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/dispachers/CommandDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/enums/UnitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/exceptions/GameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/exceptions/InvalidPositionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/handlers/BaseCombatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/interfaces/Battleground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/interfaces/CombatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/interfaces/InputReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/io/ConsoleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/models/spells/BaseSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/14.WORKSHOP/Projects/First_MyImpl/src/main/java/net/models/units/BaseUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Shampoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Shampoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/15.SPRING_DATA_ADVANCED_QUERING/demo/demo/src/main/java/softuni/demo/domain/entities/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/db/EntityDbContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DB_Hibernate_And_SpringData/7.WORKSHOP_CREATING_CUSTOM_ORM/src/main/java/com/vladilav/db/EntityDbContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/3.INTRO_TO_JAVA/Project/src/Extract_Bit_From_Integer_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_Fundamentals/3.INTRO_TO_JAVA/Project/src/Extract_Bit_From_Integer_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/01. Java-Advanced-Intro-To-Java-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/4.EXERCISE_INTRO_TO_JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/src/FormattingNumbers_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/src/RectangleArea_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA/src/TriangleArea_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/04. Java-OOP-Adv-Reflection-Exercises-Skeleton/ReflectionExercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/04. Java-OOP-Adv-Reflection-Exercises-Skeleton/ReflectionExercises.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/04. Java-OOP-Adv-Reflection-Exercises-Skeleton/ReflectionExercises.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/04. Java-OOP-Advanced-Reflection-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/10.EXERCISE_REFLECTION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/src/pr01HarvestingFields/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/src/pr01HarvestingFields/RichSoilLand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/src/pr02PrivateClassFiddling/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/10.EXERCISE_REFLECTION/src/pr02PrivateClassFiddling/com/BlackBoxInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/11.UNIT_TESTING/Maven_Tasks/src/main/java/rpg_lab/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/01. Java-OOP-Advanced-Generics-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/01. Java-OOP-Advanced-Generics.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/3.GENERICS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericArrayCreator_fd_2/ArrayCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericArrayCreator_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericFlatMethod_fd_6/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericFlatMethod_fd_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericScale_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/GenericScale_fd_3/Scale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/JarOfT_fd_1/Jar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/JarOfT_fd_1/JarImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/JarOfT_fd_1/JarOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/JarOfT_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/ListUtilities_fd_4/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/ListUtilities_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/NullFinder_fd_5/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/3.GENERICS/src/NullFinder_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/02. Java-OOP-Advanced-Iterators-and-Comparators-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/02. Java-OOP-Advanced-Iterators-and-Comparators.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/5.ITERATORS_AND_COMPARATORS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/BookComparator_fd_4/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/BookComparator_fd_4/BookComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/BookComparator_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/Book_fd_1/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/Book_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/ComparableBook_fd_3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/ComparableBook_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/Library_fd_2/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/Library_fd_2/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/5.ITERATORS_AND_COMPARATORS/src/Library_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/03. Java-OOP-Advanced-Iterators-and-Comparators-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/6.EXERCISE_ITERATORS_AND_COMPARATORS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/04. Java-OOP-Advanced-Reflection-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/04. Java-OOP-Advanced-Reflection.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/9.REFLECTION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/GettersAndSetters_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/GettersAndSetters_fd_2/Reflection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/HighQualityMistakes_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/HighQualityMistakes_fd_3/Reflection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/Reflection_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Advanced/9.REFLECTION/src/Reflection_fd_1/Reflection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/04. Java-OOP-Basics-Polymorphism-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/10.EXERCISE_POLYMORPHISM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/VehiclesExtensions_fd_2/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/VehiclesExtensions_fd_2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/VehiclesExtensions_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/VehiclesExtensions_fd_2/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/VehiclesExtensions_fd_2/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/Vehicles_fd_1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/Vehicles_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/Vehicles_fd_1/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/src/Vehicles_fd_1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/05. Java-OOP-Basics-Interfaces-and-Abstraction-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/11.INTERFACES_AND_ABSTRACTION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Rentable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShopExtend_fd_3/Sellable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShop_fd_2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShop_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/CarShop_fd_2/Seat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/BasePerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/Bulgarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/Chinese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/European.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHelloExtend_fd_5/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHello_fd_4/Bulgarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHello_fd_4/Chinese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHello_fd_4/European.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHello_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/SayHello_fd_4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/ShapesDrawing_fd_1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/ShapesDrawing_fd_1/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/ShapesDrawing_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/src/ShapesDrawing_fd_1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/05. Java-OOP-Basics-Interfaces-and-Abstraction-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/12.EXERCISE_INTERFACES_AND_ABSTRACTION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/BorderControl_fd_5/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/BorderControl_fd_5/Identifable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/BorderControl_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/BorderControl_fd_5/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/DefineAnInterfacePerson_fd_1/Citizen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/DefineAnInterfacePerson_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/src/DefineAnInterfacePerson_fd_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/13._14.WORKSHOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Battleground_workshop.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/.idea/net.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/commands/GameOverCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/comparators/UnitComparatorByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/dispachers/CommandDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/enums/UnitType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/exceptions/GameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/exceptions/InvalidPositionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/handlers/CombatHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/interfaces/Battleground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/interfaces/CombatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/io/OutputWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/models/spells/Spell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/Skeleton-game-workshop/net/java/main/models/units/Unit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/out/production/13._14.WORKSHOP/net/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/out/production/13._14.WORKSHOP/net/.idea/net.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/out/production/13._14.WORKSHOP/net/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/out/production/13._14.WORKSHOP/net/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/.idea/net.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/commands/GameOverBaseCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/commands/SpawnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/comparators/UnitComparatorByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/constants/ExceptionMessagesConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/constants/GameConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/core/GameEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/dispachers/CommandDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/enums/CommandType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/enums/SpellType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/enums/UnitType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/exceptions/GameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/exceptions/InvalidPositionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/exceptions/InvalidUnitTypeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/exceptions/NoUnitToRemoveException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/factories/CombatHandlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/factories/CommandFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/factories/SpellFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/factories/UnitFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/handlers/BaseCombatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/handlers/CarrierCombatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/handlers/MarineCombatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Battleground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/CombatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/InputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/OutputWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Spell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/interfaces/Unit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/io/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/io/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/BattlegroundImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/PositionImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/spells/BaseSpell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/spells/BulletRain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/spells/RageShoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/units/BaseUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/units/Carrier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/models/units/Marine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/13._14.WORKSHOP/src/net/java/main/repositorys/UnitRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/07. Java-OOP-Basics-ExamPreparation2-Problem-Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/16.EXAM_PREPARATION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/io/ConsoleInputReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/io/ConsoleOutputWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/utilities/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/utilities/InputParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/01. Java-OOP-Basics-Defining-Classes-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/3.DEFINING_CLASSES.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/DefineBankAccountClass_fd_1/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/DefineBankAccountClass_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/DefinePersonClass_fd_4/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/DefinePersonClass_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/DefinePersonClass_fd_4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/4.EXERCISE_DEFINING_CLASSES.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CarSalesman_fd_7/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CarSalesman_fd_7/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CarSalesman_fd_7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CompanyRoster_fd_4/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CompanyRoster_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/DefineClassPerson_fd_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/OpinionPoll_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/OpinionPoll_fd_3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/RawData_fd_6/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/RawData_fd_6/Cargo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/RawData_fd_6/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/RawData_fd_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/RawData_fd_6/Tier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/SpeedRacing_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/6.EXERCISE_ENCAPSULATION.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/AnimalFarm_fd_3/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/AnimalFarm_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ClassBoxDataValidation_fd_2/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ClassBoxDataValidation_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ClassBox_fd_1/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ClassBox_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/PizzaCalories_fd_5/Dough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/PizzaCalories_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/PizzaCalories_fd_5/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/PizzaCalories_fd_5/PizzaConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/PizzaCalories_fd_5/Topping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ShoppingSpree_fd_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ShoppingSpree_fd_4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/src/ShoppingSpree_fd_4/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/7.INHERITANCE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/MultipleInheritance_fd_2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/MultipleInheritance_fd_2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/MultipleInheritance_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/MultipleInheritance_fd_2/Puppy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/SingleInheritance_fd_1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/SingleInheritance_fd_1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/SingleInheritance_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/7.INHERITANCE/src/Test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/03. Java-OOP-Basics-Inheritance-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/8.EXERCISE_INHERITANCE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/BookShop_fd_2/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/BookShop_fd_2/GoldenEditionBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/BookShop_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Mankind_fd_3/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Mankind_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Mankind_fd_3/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Mankind_fd_3/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Constants/ExceptionConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidArtistNameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidSongException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidSongLengthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidSongMinutesException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidSongNameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Exceptions/InvalidSongSecondsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/RadioDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/OnlineRadioDatabase_fd_5/SongLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Person_fd_1/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Person_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/src/Person_fd_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/04. Java-OOP-Basics-Polymorphism-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/9.POLYMORPHISM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/MethodOverriding_fd_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/MethodOverriding_fd_2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/MethodOverriding_fd_2/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/OverloadMethod_fd_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/Shape_fd_3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/Shape_fd_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/Shape_fd_3/Rectangel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java_OOP_Basic/9.POLYMORPHISM/src/Shape_fd_3/Shape.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="cdi.beans_1_1" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bDlFN25LCseZLhMp7vq1YqnPch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomy" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Second_From_Video:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Second_From_Video_2" />
+        <option name="HTTP_PORT" value="8000" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64019" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Second_From_Video:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638c2f83-b23e-4f24-bfe5-68869cc5a012" name="Default Changelist" comment="" />
+      <created>1588174440032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588174440032</updated>
+      <workItem from="1588174442032" duration="13339000" />
+      <workItem from="1588834771716" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588179404112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588179404112" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1588237073427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588237073427" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1588834968007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588834968007" />
+    <state width="991" height="149" key="GridCell.Tab.0.bottom" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.0.center" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.0.center/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.0.left" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.0.left/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.0.right" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.0.right/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.1.bottom" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.1.center" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.1.center/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.1.left" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.1.left/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983473" />
+    <state width="991" height="149" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.1.right" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.1.right/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.2.bottom" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.2.center" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.2.center/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.2.left" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.2.left/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="149" key="GridCell.Tab.2.right" timestamp="1588277504062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="149" key="GridCell.Tab.2.right/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588246983474" />
+    <state width="991" height="149" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1588277504062" />
+    <state width="991" height="180" key="GridCell.Tab.3.bottom" timestamp="1588233618219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="180" key="GridCell.Tab.3.bottom/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588233618219" />
+    <state width="991" height="180" key="GridCell.Tab.3.center" timestamp="1588233618218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="180" key="GridCell.Tab.3.center/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588233618218" />
+    <state width="991" height="180" key="GridCell.Tab.3.left" timestamp="1588233618218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="180" key="GridCell.Tab.3.left/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588233618218" />
+    <state width="991" height="180" key="GridCell.Tab.3.right" timestamp="1588233618219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="991" height="180" key="GridCell.Tab.3.right/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588233618219" />
+    <state x="65" y="25" key="new project wizard" timestamp="1588834990949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588834990949" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1588178491656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.-68.1440.860@0.0.1366.728" timestamp="1588178491656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/chyshka/web/Servlets/ProductCreateServlet.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

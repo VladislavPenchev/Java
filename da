@@ -1,0 +1,89 @@
+[33mcommit 267ccda92dbe9780ad526ce54a587ebb9bb4f5b3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Feb 5 17:02:27 2019 +0200
+
+    Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES -> 7.CarSalesman 0% TODO: print
+
+[33mcommit ce5bbbbcc8ad049352619493f3da0bae790c908e[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Feb 5 10:51:41 2019 +0200
+
+    Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA -> 3.FormattingNumbers 80%
+
+[33mcommit 4970efa10a826bf34b0b14283828817b4a7eb9e3[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Mon Feb 4 17:39:33 2019 +0200
+
+    Java_Fundamentals/4.EXERCISE_INTRO_TO_JAVA --> 01. Java-Advanced-Intro-To-Java-Exercises (Task Condition)
+
+[33mcommit cdf722443c509c03bcccb973ccf0f87dda8dedf6[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Mon Feb 4 17:25:19 2019 +0200
+
+    2.TriangleArea 100%
+
+[33mcommit 52f1ad1a70d343353239dca5c66d5cdbca042c2e[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Fri Feb 1 23:56:19 2019 +0200
+
+    1.RectangleArea 100%
+
+[33mcommit c586c0f14e042a9c70536268e660098cd09490a2[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Thu Jan 31 18:01:29 2019 +0200
+
+    7.CarSalesman
+
+[33mcommit 837fd529442e397833057c500e898eb3917342e1[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Thu Jan 31 16:35:35 2019 +0200
+
+    6.RawData 80%
+
+[33mcommit 3565298136092c8e601208c672355e19515fc9c7[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Wed Jan 30 15:45:23 2019 +0200
+
+    4.CompanyRoster 0%
+
+[33mcommit 56e3445e48ab52b23ac7572f25a39eed98b5af05[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Wed Jan 30 11:06:46 2019 +0200
+
+    3.OpinionPoll 100%
+
+[33mcommit abca1d1330a7226deac8f8f4bdcc72006f4886b7[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Wed Jan 30 10:45:24 2019 +0200
+
+    CreatingConstructors
+
+[33mcommit a2526bf8e446e12981ff9a8897c9084cc4c5e620[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Jan 29 18:00:40 2019 +0200
+
+    1.DefineClassPerson 100%
+
+[33mcommit e71b701b884c3010aaee113fe29c410345d40f84[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Jan 29 17:41:41 2019 +0200
+
+    5.StaticIdAndRate
+
+[33mcommit bac1ca04db2f258806a03d82a2bc62780cf48ff7[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Jan 29 16:26:56 2019 +0200
+
+    DefinePersonClass_4
+
+[33mcommit e0e0911f2119db425d969c748c7d28ce5ae2cce7[m
+Author: VladislavPenchev <vgpenchev@gmail.com>
+Date:   Tue Jan 29 14:45:10 2019 +0200
+
+    3.DefineBankAccountClass
+
+[33mcommit 3762d80a3669c73ba75b7b82d9c540a6db99b19a[m
+Author: VladislavPenchev <34232950+VladislavPenchev@users.noreply.github.com>
+Date:   Mon Jan 28 10:07:38 2019 +0200
+
+    Initial commit

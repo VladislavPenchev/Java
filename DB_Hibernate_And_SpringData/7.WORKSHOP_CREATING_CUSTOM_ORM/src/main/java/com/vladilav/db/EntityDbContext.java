@@ -27,7 +27,7 @@ public class EntityDbContext<T> implements DbContext<T> {
 
     private static final String INSERT_QUERY_TEMPLATE= "INSERT INTO {0}({1}) VALUES ({2})";
 
-    private static final String UPDATE_QUERY_TEMPLATE = "UPDATE {0} SET {1} = {2} WHERE {2} = {3}";
+    private static final String UPDATE_QUERY_TEMPLATE = "UPDATE {0} SET {1} WHERE {2} = {3}";
     private static final String SET_QUERY_TEMPLATE = "{0} = {1}";
 
 
@@ -178,12 +178,13 @@ public class EntityDbContext<T> implements DbContext<T> {
         //getPrimaryKeyField().setAccessible(true);
 
         Field primaryKey = getPrimaryKeyField();
+
         primaryKey.setAccessible(true);
 
-        String primaryKeyName = getPrimaryKeyField().getAnnotation(PrimaryKey.class).name();
+        String primaryKeyName = primaryKey.getAnnotation(PrimaryKey.class).name();
 
 
-        String primaryKeyValue = (String) getPrimaryKeyField().get(entity);
+        long primaryKeyValue = (long) primaryKey.get(entity);
 
 
         String queryString = MessageFormat.format(UPDATE_QUERY_TEMPLATE,

@@ -7,6 +7,6 @@ public class ConsoleOutputWriter {
     }
 
     public void print(String text){
-        System.out.println(text);
+        System.out.print(text);
     }
 }

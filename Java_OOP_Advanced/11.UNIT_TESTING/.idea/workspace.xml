@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2eb4a2-1d2a-4fd3-afb8-10c1e10f487a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DB_Hibernate_And_SpringData/6.EXERCISE_DB_APPS_INTRODUCTION/src/main/java/GetMinionNames_fd_3/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10.EXERCISE_REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6.EXERCISE_ITERATORS_AND_COMPARATORS/src/ListyIterator_fd_1/ListyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.REFLECTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.REFLECTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/10.EXERCISE_POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/11.INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/12.EXERCISE_INTERFACES_AND_ABSTRACTION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/13._14.WORKSHOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/CarManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/contracts/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/core/CarManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/BaseCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/PerformanceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/cars/ShowCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/BaseRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/CasualRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DragRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/16.EXAM_PREPARATION/src/app/entities/races/DriftRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/17.EXAM_PREPARATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/18.EXAM_PREPARATION_OCTOBER2017_AVATAR/src/app/io/ConsoleOutputWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/3.DEFINING_CLASSES/src/StaticIdAndRate_fd_5/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/4.EXERCISE_DEFINING_CLASSES/src/CreatingConstructors_fd_2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/6.EXERCISE_ENCAPSULATION/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/7.INHERITANCE/src/HierarchicalInheritance_fd_3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/8.EXERCISE_INHERITANCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_OOP_Basic/9.POLYMORPHISM/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/11_UNIT_TESTING$BankAccountTests.ic" NAME="BankAccountTests Coverage Results" MODIFIED="1557398959986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tests/BankAccountTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/tests/BankAccountTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="114" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="11.UNIT_TESTING" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11.UNIT_TESTING" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557399239762" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="11.UNIT_TESTING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="11.UNIT_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BankAccountTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTests.depositAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="11.UNIT_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BankAccountTests" />
+      <option name="METHOD_NAME" value="depositAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTests.withDrawAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="11.UNIT_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BankAccountTests" />
+      <option name="METHOD_NAME" value="withDrawAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTests.withDrawNegativeAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="11.UNIT_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.BankAccountTests" />
+      <option name="METHOD_NAME" value="withDrawNegativeAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.BankAccountTests.depositAmount" />
+      <item itemvalue="JUnit.BankAccountTests.withDrawAmount" />
+      <item itemvalue="JUnit.BankAccountTests" />
+      <item itemvalue="JUnit.BankAccountTests.withDrawNegativeAmount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTests" />
+        <item itemvalue="JUnit.BankAccountTests.withDrawNegativeAmount" />
+        <item itemvalue="JUnit.BankAccountTests.withDrawAmount" />
+        <item itemvalue="JUnit.BankAccountTests.depositAmount" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2eb4a2-1d2a-4fd3-afb8-10c1e10f487a" name="Default Changelist" comment="" />
+      <created>1557391817657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557391817657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BankAccountTests_withDrawAmount - 2019.05.09 at 13h 48m 09s.xml">
+      <configuration name="BankAccountTests.withDrawAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_depositAmount - 2019.05.09 at 13h 48m 16s.xml">
+      <configuration name="BankAccountTests.depositAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_depositAmount - 2019.05.09 at 13h 48m 40s.xml">
+      <configuration name="BankAccountTests.depositAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_depositAmount - 2019.05.09 at 13h 48m 52s.xml">
+      <configuration name="BankAccountTests.depositAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_depositAmount - 2019.05.09 at 13h 49m 02s.xml">
+      <configuration name="BankAccountTests.depositAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_withDrawAmount - 2019.05.09 at 13h 49m 08s.xml">
+      <configuration name="BankAccountTests.withDrawAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests - 2019.05.09 at 13h 50m 43s.xml">
+      <configuration name="BankAccountTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests_withDrawNegativeAmount - 2019.05.09 at 13h 53m 04s.xml">
+      <configuration name="BankAccountTests.withDrawNegativeAmount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests - 2019.05.09 at 13h 53m 10s.xml">
+      <configuration name="BankAccountTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTests - 2019.05.09 at 13h 53m 25s.xml">
+      <configuration name="BankAccountTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="DB Browser" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32969153" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BankAccount/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/BankAccountTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
